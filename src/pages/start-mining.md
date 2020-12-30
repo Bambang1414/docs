@@ -1,7 +1,7 @@
 ---
 title: Mine Stacks tokens
-description: Set up and run a miner on the Stacks 2.0 testnet
-icon: TestnetIcon
+description: Set up and run a miner on the Stacks 2.0 mainnet
+icon: MainnetIcon
 experience: beginners
 duration: 10 minutes
 tags:
